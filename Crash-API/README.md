@@ -16,23 +16,18 @@
 
 ## Feito por:
 - Gustavo Ananias
-- Rafael Mendes
-- Gustavo Rubert
-- Mateus Evandro
 
 ## Professor:
 - Mateus Maidel
 
 ## Prints:
-![](/assets/screenshot-1.png)
-![](/assets/screenshot-2.png)
+![](/assets/screenshot.png)
+![](/assets/screenshot.png)
 
   
 ## Features
 
-- Um catálogo extenso da: [RAWG API](https://rawg.io/apidocs).
-- Procure o jogo que você deseja.
-- Informações e prints dos jogos.
+- Procure um dos jogos clássicos que você deseja.
 - Desingn responsivo.
 - Carregamento rápido de imagens.
 - Animações _Lentas_.
